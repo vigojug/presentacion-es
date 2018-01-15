@@ -1,0 +1,40 @@
+= Presentación
+VigoJUG
+2018-01-15
+:revnumber: {project-version}
+:example-caption!:
+ifndef::imagesdir[:imagesdir: images]
+ifndef::sourcedir[:sourcedir: ../java]
+:navigation:
+:menu:
+:status:
+:title-slide-background-image: title.jpeg
+:title-slide-transition: zoom
+:title-slide-transition-speed: fast
+:icons: font
+
+[%notitle]
+== VigoTech Alliance
+
+image::vigotech.jpg[height=600px]
+== VigoJUG
+
+* Un meetup **el primer martes de cada mes**
+* 370 miembros en Meetup en un año de vida
+* Otras iniciativas: taller virtual #VigoJUG-taller, reto, etc.
+* Canal de slack **#VigoJUG** en http://www.vigotech.org
+
+image::sponsors.jpg[sponsors,800,200]
+
+[%notitle]
+== Speakers ilustres
+
+image::david.jpeg[height=600px]
+
+== ¿Preguntas?
+
+* Web: http://www.vigojug.org
+* Slack: canal #vigojug en http://www.vigotech.org
+* Twitter: @vigojug
+* Slides: http://www.vigojug.org/presentacion-es
+* Código: https://github.com/vigojug/presentación-es
